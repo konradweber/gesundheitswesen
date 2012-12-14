@@ -1,0 +1,13 @@
+<div class='googft-info-window' style='font-family: sans-serif'>
+<h3>Informationen zum Spital:</h3>
+<br>
+<b>Institution:</b> {Institution}<br>
+<b>Adresse und Ort:</b> {Adresse und Ort}<br>
+<b>Status:</b> {Status}<br><br>
+<b>Betriebsergebnis:</b> {Betriebsergebnis} Fr.<br>
+<b>Subventionen:</b> {Subventionen} Fr.<br>
+<b>Anzahl Pflegetage:</b> {Anzahl Pflegetage} Tage<br>
+<b>Subventionen pro Pflegetag:</b> {Subv./Pflegetag} Fr.<br>
+<b>Anzahl Betten:</b> {Anzahl Betten} Betten<br>
+<b>Total Personal:</b> {Total Personal} Pers.<br><br>
+</div>
